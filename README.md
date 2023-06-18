@@ -1,1 +1,1 @@
-# PIC16F877A
+# Microchip PIC16F877A
